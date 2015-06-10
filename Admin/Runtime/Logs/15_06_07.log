@@ -1,0 +1,242 @@
+[ 2015-06-07T10:16:24+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/delPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019001s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019001s ]
+
+[ 2015-06-07T10:16:37+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-06-07T10:17:01+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-06-07T10:23:55+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016601s ]
+
+[ 2015-06-07T10:24:17+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-07T10:24:19+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-07T10:28:17+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-07T10:28:39+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-07T10:30:11+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-07T10:36:57+08:00 ] 0.0.0.0 /getwhere3.1/index.php/ProductPlace/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-06-07T10:38:03+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/showPlace
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:showPlace
+
+[ 2015-06-07T10:38:23+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.009001s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.003000s ]
+
+[ 2015-06-07T10:39:35+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.000000s ]
+
+[ 2015-06-07T10:40:04+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: l D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 118 行.
+
+[ 2015-06-07T10:40:12+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.005000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.000000s ]
+
+[ 2015-06-07T10:41:24+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-06-07T10:41:32+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.003000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.000000s ]
+
+[ 2015-06-07T11:06:16+08:00 ] 0.0.0.0 /getwhere3.1/index.php/Product/productAll
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: rows D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 93 行.
+NOTIC: [8] Undefined index: page D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 95 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `t_product` [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `t_product` WHERE ( company_id=119 ) LIMIT 1   [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant t_product - assumed 't_product' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_by - assumed 'generate_by' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant generate_time - assumed 'generate_time' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8] Use of undefined constant qr_img - assumed 'qr_img' D:\wamp\www\getwhere3.1\Admin\Lib\Action\ProductAction.class.php 第 115 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead D:\wamp\www\getwhere3.1\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT `id`,`company_id`,`status`,`generate_by`,`generate_time`,`qr_img` FROM `t_product` WHERE ( company_id= 119 ) ORDER BY id DESC LIMIT 0,3   [ RunTime:0.000000s ]
+

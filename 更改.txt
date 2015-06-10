@@ -1,0 +1,2 @@
+在Library/ORG/Util/添加了Email.class.php    // email的发送类
+在Vendor/添加了phpqrcode文件夹		    //生成二维码
